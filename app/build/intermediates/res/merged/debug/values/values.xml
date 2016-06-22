@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="planets_array">
+    	<item>None</item>
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+    <string name="app_name">Androidexamples07spinner</string>
+    <string name="hello">Hello World, Androidexamples07spinnerActivity!</string>
+    <string name="none_item">None</string>
+    <string name="planet_prompt">Choose a planet</string>
+</resources>
